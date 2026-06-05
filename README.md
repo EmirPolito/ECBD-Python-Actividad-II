@@ -1,8 +1,8 @@
-# Actividad II — Ejercicios de Python
+# Actividad II — Conociendo Python en la practica
 
 > **Materia:** Extracción de Conocimientos de Base de Datos
-> **Actividad:** II  
 > **Autor:** Emir Polito Guevara
+> **Actividad:** II
 
 ---
 
@@ -72,14 +72,14 @@ Programa que solicita **10 números enteros** al usuario y realiza un análisis 
 
 **Estadísticas calculadas:**
 
-- 📋 Lista completa de números ingresados
-- 🔼 Número **mayor** (implementado manualmente)
-- 🔽 Número **menor** (implementado manualmente)
-- ➕ **Suma** total de los números
-- 〰️ **Promedio** de la lista
-- 🔵 Cantidad de números **pares**
-- 🔴 Cantidad de números **impares**
-- 📈 Lista de números **mayores al promedio**
+- Lista completa de números ingresados
+- Número **mayor** (implementado manualmente)
+- Número **menor** (implementado manualmente)
+- **Suma** total de los números
+- **Promedio** de la lista
+- Cantidad de números **pares**
+- Cantidad de números **impares**
+- Lista de números **mayores al promedio**
 
 **Conceptos aplicados:** `bucle for`, `listas`, `condicionales`, operador módulo `%`, lógica de búsqueda manual
 
