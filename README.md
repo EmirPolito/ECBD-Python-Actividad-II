@@ -1,8 +1,13 @@
 # Actividad II — Conociendo Python en la practica
 
 > **Materia:** Extracción de Conocimientos de Base de Datos
-> **Autor:** Emir Polito Guevara
+> <br>
+
+> **Alumno:** Emir Polito Guevara
+> <br>
+
 > **Actividad:** II
+> <br>
 
 ---
 
